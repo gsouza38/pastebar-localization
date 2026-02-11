@@ -1,0 +1,46 @@
+Auto Backup on Restore: Automatische back-up bij herstellen
+Available Backups: Beschikbare back-ups
+Backup Files: Back-upbestanden
+Backup Now: Nu back-up maken
+Backup and Restore: Back-up en herstellen
+Backup created successfully: Back-up succesvol aangemaakt
+Backup deleted successfully: Back-up succesvol verwijderd
+Backup on Restore: Back-up bij herstellen
+Browse: Bladeren
+Create Backup: Back-up maken
+Create a backup of your data?: Wilt u een back-up van uw gegevens maken?
+Created: Aangemaakt
+Creating backup...: Back-up wordt gemaakt...
+Delete: Verwijderen
+Delete this backup? This action cannot be undone.: Deze back-up verwijderen? Deze actie kan niet ongedaan worden gemaakt.
+Failed to create backup: Back-up maken mislukt
+Failed to delete backup: Back-up verwijderen mislukt
+Failed to load backup list: Back-uplijst laden mislukt
+Failed to open backup folder: Back-upmap openen mislukt
+Failed to restore backup: Back-up herstellen mislukt
+Failed to select backup file: Selecteren van back-upbestand mislukt
+Include images in backup: Afbeeldingen opnemen in back-up
+Invalid backup file: Ongeldig back-upbestand
+Loading backups...: Back-ups laden...
+Move to another location?: Naar een andere locatie verplaatsen?
+No backups found: Geen back-ups gevonden
+Restore: Herstellen
+Restore Data: Gegevens herstellen
+Restore completed. The application will restart.: Herstellen voltooid. De applicatie wordt opnieuw gestart.
+Restore from "{{filename}}"? This will replace all current data.: Herstellen vanaf {{filename}}? Dit vervangt alle huidige gegevens.
+Restore from File...: Herstellen vanuit bestand...
+Restore from {{filename}}? This will replace all current data.: Herstellen vanaf {{filename}}? Dit vervangt alle huidige gegevens.
+Restored from {{filename}}: Hersteld vanaf {{filename}}
+Restoring a backup will automatically restart the application.: Het herstellen van een back-up start de applicatie automatisch opnieuw.
+Restoring backup...: Back-up herstellen...
+Restoring...: Bezig met herstellen...
+Select backup file: Selecteer back-upbestand
+Size: Grootte
+The selected file is not a valid PasteBar backup: Het geselecteerde bestand is geen geldige PasteBar-back-up
+This action cannot be undone. All current data will be replaced with the backup data.: Deze actie kan niet ongedaan worden gemaakt. Alle huidige gegevens worden vervangen door de back-upgegevens.
+This will create a backup file containing your database: Dit maakt een back-upbestand met uw database
+This will replace all current data. Are you sure?: Dit vervangt alle huidige gegevens. Weet u het zeker?
+Total backup space {{size}}: Totale back-upruimte: {{size}}
+and images: en afbeeldingen
+selected file: geselecteerd bestand
+will be permanently deleted.: wordt permanent verwijderd.
