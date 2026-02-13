@@ -129,3 +129,14 @@ id:
   open_pastebar: Buka PasteBar
   unlock_pastebar: Buka kunci PasteBar
   quit: Keluar
+
+nl-NL:
+  add_first_item_here: Voeg hier het eerste item toe
+  disable_history_capture: Geschiedenisvastlegging uitschakelen
+  enable_history_capture: Geschiedenisvastlegging inschakelen
+  clipboard_image_size: Grootte van klembordafbeelding
+  history_capture_is_disabled: Vastleggen van klembordgeschiedenis is uitgeschakeld
+  recent_history: Recente geschiedenis
+  open_pastebar: PasteBar openen
+  unlock_pastebar: PasteBar ontgrendelen
+  quit: Afsluiten
